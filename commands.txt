@@ -1,0 +1,11 @@
+git init
+
+git status
+
+git add
+
+git commit -m "adding a file"
+
+git restore
+
+git commit -m "adding some changes"
